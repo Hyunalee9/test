@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		java.util.Stack<String> elevator = new java.util.Stack<String>();
+		java.util.Stack<String> elevator = new java.util.Stack<String>(); // 패키지 설정에 문제 있는듯.
 		//elevator.init();
 
 		elevator.push("우종성");
